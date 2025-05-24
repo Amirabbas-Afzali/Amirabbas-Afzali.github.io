@@ -8,6 +8,7 @@ middle_name:
 last_name: Afzali
 email: amir8afzali@gmail.com
 contact_note: >
+  Drop me an email if you want to contact!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 
@@ -121,10 +122,10 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+  # - name: Google Blog
+  #   posts:
+  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+  #       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -260,8 +261,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Afzali]
+  first_name: [Amirabbas]
 
   style: apa
   locale: en
