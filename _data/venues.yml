@@ -1,9 +1,26 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NeurIPS":
+  url: https://neurips.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICLR":
+  url: https://www.iclr.cc/
+  color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"RLC":
+  url: https://rl-conference.cc/
+  color: "#00369f"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#770737"
+
+"STOC":
+  url: http://acm-stoc.org/
+
+"FOCS":
+  url: https://ieee-focs.org/
+  color: "#770737"
+
+"NeurIPS M3L":
+  url: https://sites.google.com/view/m3l-2024/
+  color: "#00369f"
