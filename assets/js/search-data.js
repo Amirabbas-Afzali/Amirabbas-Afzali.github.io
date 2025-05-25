@@ -447,6 +447,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=uBk9UgoAAAAJ&hl", "_blank");
         },
       },{
+        id: 'social-telegram',
+        title: 'telegram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://telegram.me/AMIRAA88# your Telegram user name", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
