@@ -433,6 +433,20 @@ ninja.data = [{
           window.open("mailto:%61%6D%69%72%38%61%66%7A%61%6C%69@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/amirabbas-afzali", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/amir-a-afzali-b539b1226", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -451,7 +465,7 @@ ninja.data = [{
         title: 'telegram',
         section: 'Socials',
         handler: () => {
-          window.open("https://telegram.me/AMIRAA88# your Telegram user name", "_blank");
+          window.open("https://telegram.me/AMIRAA88", "_blank");
         },
       },{
       id: 'light-theme',
