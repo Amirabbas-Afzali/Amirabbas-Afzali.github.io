@@ -24,11 +24,11 @@ latest_posts: false
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm Amirabbas Afzali, an undergraduate student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology. Over the past few years, I’ve developed a strong passion for the theory and practice of machine learning, especially at the intersection of optimization, reinforcement learning, and human-AI alignment.
+Hi there! I'm Amirabbas Afzali, an undergraduate student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology. Over the past few years, I’ve developed a strong passion for the theory and practice of machine learning, especially at the intersection of optimization, reinforcement learning, and human-AI alignment. 
 
 My recent work spans a variety of exciting research areas, including:
 
 * Trustworthy AI & Adversarial Machine Learning
-* Preference Optimization and AI Alignment
+* LLM Alignment and Preference Optimization
+* Offline & Robust Reinforcement Learning
 * Theory of Optimization and Machine Learning
-* Reinforcement Learning, with a focus on Offline RL and Robust RL
