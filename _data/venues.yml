@@ -1,26 +1,26 @@
 "NeurIPS":
   url: https://neurips.cc/
-  color: "#00369f"
+  color: "#1E90FF"   # Dodger Blue
 
 "ICLR":
   url: https://www.iclr.cc/
-  color: "#00369f"
+  color: "#228B22"   # Forest Green
 
 "RLC":
   url: https://rl-conference.cc/
-  color: "#770737"
+  color: "#FF8C00"   # Dark Orange
 
 "AAAI":
   url: https://aaai.org/
-  color: "#770737"
+  color: "#8A2BE2"   # Blue Violet
 
-"STOC":
-  url: http://acm-stoc.org/
+# "STOC":
+#   url: http://acm-stoc.org/
 
-"FOCS":
-  url: https://ieee-focs.org/
-  color: "#770737"
+# "FOCS":
+#   url: https://ieee-focs.org/
+#   color: "#770737"
 
-"NeurIPS M3L":
-  url: https://sites.google.com/view/m3l-2024/
-  color: "#00369f"
+# "NeurIPS M3L":
+#   url: https://sites.google.com/view/m3l-2024/
+#   color: "#00369f"
