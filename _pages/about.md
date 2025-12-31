@@ -23,12 +23,14 @@ latest_posts: false
   # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   # limit: 3 # leave blank to include all the blog posts
 ---
+I'm Amirabbas Afzali, a B.Sc. student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology. Last summer, I was an research intern at [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL work with [Prof. Maria Brbic](https://people.epfl.ch/maria.brbic) working on Weak-to-Strong generalization in the context of LLMs' Alignemnt. 
 
-Hi there! I'm Amirabbas Afzali, an undergraduate student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology. Over the past few years, I’ve developed a strong passion for the theory and practice of machine learning, especially at the intersection of optimization, reinforcement learning, and human-AI alignment. 
+I'm also broadly interested in problems related to [todo: add here], and machine learning theory, especially at the intersection of optimization, reinforcement learning, and human-AI alignment. 
 
 My recent work spans a variety of exciting research areas, including:
 
 * Trustworthy AI & Adversarial Machine Learning
-* LLM Alignment and Preference Optimization
+* LLM Post-training, icluding Alignment and Preference Learning
 * Offline & Robust Reinforcement Learning
-* Theory of Optimization and Machine Learning
+
+I have recently been interested in `(i)` LLM safety, `(ii)` Steering Vectors for test-time LLM alignment, and `(iii)` model certified robustness and verfication. 
