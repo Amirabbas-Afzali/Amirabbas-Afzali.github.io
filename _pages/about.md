@@ -36,7 +36,7 @@ My recent work spans a variety of exciting research areas, including:
 I have recently been interested in `(i)` LLM safety, `(ii)` Steering Vectors for test-time LLM alignment, and `(iii)` model certified robustness and verfication.  -->
 
 <!-- ---------------------------------------- -->
-<!-- I’m Amirabbas Afzali, a B.Sc. student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology, specializing in Communication Systems. Last summer, I was a research intern at the [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL, working with [Prof. Maria Brbić](https://people.epfl.ch/maria.brbic) on Weak-to-Strong generalization for preference alignment in large language models.
+I’m Amirabbas Afzali, a B.Sc. student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology, specializing in Communication Systems. Last summer, I was a research intern at the [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL, working with [Prof. Maria Brbić](https://people.epfl.ch/maria.brbic) on Weak-to-Strong generalization for preference alignment in large language models.
 
 I’m broadly interested in reliable decision-making in machine learning systems, including trustworthy ML, optimization, and reinforcement learning, especially where these topics intersect with human-AI alignment.
 
@@ -52,9 +52,6 @@ Lately, I’ve been especially interested in the following topics — feel free 
 
 `(ii)` Steering Vector for test-time alignment  [🔗](https://arxiv.org/abs/2308.10248v4)
 
-`(iii)` Certified robustness and model verification [🔗](https://openreview.net/pdf?id=Skxuk1rFwB) -->
+`(iii)` Certified robustness and model verification [🔗](https://openreview.net/pdf?id=Skxuk1rFwB)
 
 
-I’m Amirabbas Afzali, a B.Sc. student in Electrical Engineering at Sharif University of Technology, specializing in Communication Systems. 
-
-I’m broadly interested in reliable decision-making in machine learning. My current research focuses on the statistical generalization of sequence models like transformers — studying when they learn meaningful structure versus memorization, particularly under distribution shift — using theoretical tools and public benchmarks.
