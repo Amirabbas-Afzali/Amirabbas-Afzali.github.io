@@ -46,12 +46,12 @@ My current research focuses on understanding how preferences, robustness, and fe
 * Trustworthy and robust machine learning, with emphasis on adversarial robustness and safety  
 * Offline and robust reinforcement learning
 
-Lately, I’ve been especially interested in the following topics — feel free to reach out if they resonate:
+<!-- Lately, I’ve been especially interested in the following topics — feel free to reach out if they resonate:
 
 `(i)` LLM safety and adversarial alignment [🔗](https://arxiv.org/abs/2306.15447)
 
 `(ii)` Steering Vector for test-time alignment  [🔗](https://arxiv.org/abs/2308.10248v4)
 
-`(iii)` Certified robustness and model verification [🔗](https://openreview.net/pdf?id=Skxuk1rFwB)
+`(iii)` Certified robustness and model verification [🔗](https://openreview.net/pdf?id=Skxuk1rFwB) -->
 
 
