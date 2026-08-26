@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Incoming DPhil Student, <a href='https://eng.ox.ac.uk/'>Engineering Science</a>, University of Oxford &middot; Research Affiliate, <a href='https://vectorinstitute.ai/'>Vector Institute</a>
 
 profile:
   align: right
@@ -23,28 +23,19 @@ latest_posts: false
   # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   # limit: 3 # leave blank to include all the blog posts
 ---
-<!-- I'm Amirabbas Afzali, a B.Sc. student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology. Last summer, I was an research intern at [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL work with [Prof. Maria Brbic](https://people.epfl.ch/maria.brbic) working on Weak-to-Strong generalization in the context of LLMs' Alignemnt. 
 
-I'm also broadly interested in problems related to [todo: add here], and machine learning theory, especially at the intersection of optimization, reinforcement learning, and human-AI alignment. 
+Hi, I’m Amirabbas! I am an incoming DPhil student in [Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/) (University of Toronto & Vector Institute) and [Prof. Philip Torr](https://eng.ox.ac.uk/people/philip-torr/) (University of Oxford), where I am supported by a Technical AI Governance DPhil Studentship from the [Oxford Martin AI Governance Initiative](https://www.oxfordmartin.ox.ac.uk/ai-governance). I am also a Research Affiliate at the [Vector Institute](https://vectorinstitute.ai/), working with Tim on AI alignment and preference optimization.
 
-My recent work spans a variety of exciting research areas, including:
+I recently completed my B.Sc. in Electrical Engineering at Sharif University of Technology, specializing in Communication Systems. Previously, I was a research intern at the [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL, working with [Prof. Maria Brbić](https://people.epfl.ch/maria.brbic) on Weak-to-Strong generalization for preference alignment in large language models.
 
-* Trustworthy AI & Adversarial Machine Learning
-* LLM Post-training, icluding Alignment and Preference Learning
-* Offline & Robust Reinforcement Learning
+I’m broadly interested in reliable decision-making in machine learning systems, including trustworthy ML and reinforcement learning, especially where these topics intersect with human–AI alignment. My work spans several research areas, including:
 
-I have recently been interested in `(i)` LLM safety, `(ii)` Steering Vectors for test-time LLM alignment, and `(iii)` model certified robustness and verfication.  -->
+* Preference learning and alignment of LLMs
+* Trustworthy ML and AI safety
+* Off-policy/asynchronous learning
+* Generalization and provable guarantees in LLMs
 
-<!-- ---------------------------------------- -->
-I’m Amirabbas Afzali, a B.Sc. student in Electrical Engineering with a minor in Mathematics at Sharif University of Technology, specializing in Communication Systems. Last summer, I was a research intern at the [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL, working with [Prof. Maria Brbić](https://people.epfl.ch/maria.brbic) on Weak-to-Strong generalization for preference alignment in large language models.
-
-I’m broadly interested in reliable decision-making in machine learning systems, including trustworthy ML, optimization, and reinforcement learning, especially where these topics intersect with human-AI alignment.
-
-My current research focuses on understanding how preferences, robustness, and feedback signals shape model behavior. My recent work spans several research areas, including:
-
-* Post-training techniques for LLMs, such as preference learning and alignment  
-* Trustworthy and robust machine learning, with emphasis on adversarial robustness and safety  
-* Offline and robust reinforcement learning
+<!-- Feel free to reach out to chat about anything related to alignment, robustness, or machine learning more broadly! -->
 
 <!-- Lately, I’ve been especially interested in the following topics — feel free to reach out if they resonate:
 
@@ -53,5 +44,3 @@ My current research focuses on understanding how preferences, robustness, and fe
 `(ii)` Steering Vector for test-time alignment  [🔗](https://arxiv.org/abs/2308.10248v4)
 
 `(iii)` Certified robustness and model verification [🔗](https://openreview.net/pdf?id=Skxuk1rFwB) -->
-
-
