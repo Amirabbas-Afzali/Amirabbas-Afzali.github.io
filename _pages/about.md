@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-#Incoming DPhil Student, <a href='https://eng.ox.ac.uk/'>Engineering Science</a>, University of Oxford &middot; Research Affiliate, <a href='https://vectorinstitute.ai/'>Vector Institute</a>
+Incoming DPhil Student, <a href='https://eng.ox.ac.uk/'>Engineering Science</a>, University of Oxford &middot; Research Affiliate, <a href='https://vectorinstitute.ai/'>Vector Institute</a>
 
 profile:
   align: right
@@ -25,8 +25,7 @@ latest_posts: false
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Amirabbas! I am an incoming DPhil student in [Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/) (University of Toronto & Vector Institute) and [Prof. Philip Torr](https://eng.ox.ac.uk/people/philip-torr/) (University of Oxford), where I am supported by a Technical AI Governance DPhil Studentship from the [Oxford Martin AI Governance Initiative](https://www.oxfordmartin.ox.ac.uk/ai-governance). 
-<!--  I am also a Research Affiliate at the [Vector Institute](https://vectorinstitute.ai/). -->
+Hi, I’m Amirabbas! I am an incoming DPhil student in [Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/) (University of Toronto & Vector Institute) and [Prof. Philip Torr](https://eng.ox.ac.uk/people/philip-torr/) (University of Oxford), where I am supported by a Technical AI Governance DPhil Studentship from the [Oxford Martin AI Governance Initiative](https://www.oxfordmartin.ox.ac.uk/ai-governance). I am also a Research Affiliate at the [Vector Institute](https://vectorinstitute.ai/).
 
 I recently completed my B.Sc. in Electrical Engineering at Sharif University of Technology, specializing in Communication Systems. Previously, I was a research intern at the [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL, working with [Prof. Maria Brbić](https://people.epfl.ch/maria.brbic) on Weak-to-Strong generalization for preference alignment in large language models.
 
