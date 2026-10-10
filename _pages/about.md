@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-Incoming DPhil Student, <a href='https://eng.ox.ac.uk/'>Engineering Science</a>, University of Oxford &middot; Research Affiliate, <a href='https://vectorinstitute.ai/'>Vector Institute</a>
+# Incoming DPhil Student, <a href='https://eng.ox.ac.uk/'>Engineering Science</a>, University of Oxford &middot; Research Affiliate, <a href='https://vectorinstitute.ai/'>Vector Institute</a>
 
 profile:
   align: right
