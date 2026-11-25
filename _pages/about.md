@@ -25,16 +25,16 @@ latest_posts: false
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Amirabbas! I am an incoming DPhil student in [Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/) (University of Toronto & Vector Institute) and [Prof. Philip Torr](https://eng.ox.ac.uk/people/philip-torr/) (University of Oxford), where I am supported by a Technical AI Governance DPhil Studentship from the [Oxford Martin AI Governance Initiative](https://www.oxfordmartin.ox.ac.uk/ai-governance). I am also a Research Affiliate at the [Vector Institute](https://vectorinstitute.ai/).
+Hi, I’m Amirabbas! I am a first-year PhD candidate in [Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/) (University of Toronto & Vector Institute) and [Prof. Maike Osborne](https://www.robots.ox.ac.uk/~mosb/) (University of Oxford), where I am supported by a Technical AI Governance DPhil Studentship from the [Oxford Martin AI Governance Initiative](https://aigi.ox.ac.uk/). I am also a Research Affiliate at the [Vector Institute](https://vectorinstitute.ai/).
 
 I recently completed my B.Sc. in Electrical Engineering at Sharif University of Technology, specializing in Communication Systems. Previously, I was a research intern at the [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL, working with [Prof. Maria Brbić](https://people.epfl.ch/maria.brbic) on Weak-to-Strong generalization for preference alignment in large language models.
 
 I’m broadly interested in reliable decision-making in machine learning systems, including trustworthy ML and reinforcement learning, especially where these topics intersect with human–AI alignment. My work spans several research areas, including:
 
-* Preference learning and alignment of LLMs
-* Trustworthy ML and AI safety
-* Off-policy/asynchronous learning
-* Generalization and provable guarantees in LLMs
+* Preference learning and alignment
+* AI safety
+<!-- * Off-policy/asynchronous learning -->
+* Generalization and guarantees in LLMs
 
 <!-- Feel free to reach out to chat about anything related to alignment, robustness, or machine learning more broadly! -->
 
