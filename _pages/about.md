@@ -25,7 +25,7 @@ latest_posts: false
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Amirabbas! I am a first-year PhD candidate in [Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/) (University of Toronto & Vector Institute) and [Prof. Maike Osborne](https://www.robots.ox.ac.uk/~mosb/) (University of Oxford), where I am supported by a Technical AI Governance DPhil Studentship from the [Oxford Martin AI Governance Initiative](https://aigi.ox.ac.uk/). I am also a Research Affiliate at the [Vector Institute](https://vectorinstitute.ai/).
+Hi, I’m Amirabbas! I am a first-year DPhil student in [Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford, supervised by [Prof. Tim G. J. Rudner](https://timrudner.com/) (University of Toronto & Vector Institute) and [Prof. Maike Osborne](https://www.robots.ox.ac.uk/~mosb/) (University of Oxford), where I am supported by a Technical AI Governance DPhil Studentship from the [Oxford Martin AI Governance Initiative](https://aigi.ox.ac.uk/). I am also a Research Affiliate at the [Vector Institute](https://vectorinstitute.ai/).
 
 I recently completed my B.Sc. in Electrical Engineering at Sharif University of Technology, specializing in Communication Systems. Previously, I was a research intern at the [MLBio Lab](https://brbiclab.epfl.ch/) at EPFL, working with [Prof. Maria Brbić](https://people.epfl.ch/maria.brbic) on Weak-to-Strong generalization for preference alignment in large language models.
 
